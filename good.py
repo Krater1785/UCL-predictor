@@ -10,7 +10,7 @@ from sklearn.metrics import accuracy_score
 import pickle
 
 # Load data
-features_df = pd.read_csv("Team_Match_Features_2.csv", parse_dates=["Match_Date"])
+features_df = pd.read_csv("Team_Match_Features.csv", parse_dates=["Match_Date"])
 with open("train.json") as f:
     train_data = json.load(f)
 mapping_df = pd.read_csv("auto_team_name_mapping.csv")
