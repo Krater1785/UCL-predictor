@@ -1,0 +1,583 @@
+{
+  "2017-18": {
+    "round_of_16_matchups": [
+      {
+        "team_1": "Juventus",
+        "team_2": "Tottenham Hotspur",
+        "date": "2018-02-13"
+      },
+      {
+        "team_1": "Basel",
+        "team_2": "Manchester City",
+        "date": "2018-02-13"
+      },
+      {
+        "team_1": "Porto",
+        "team_2": "Liverpool",
+        "date": "2018-02-14"
+      },
+      {
+        "team_1": "Sevilla",
+        "team_2": "Manchester United",
+        "date": "2018-02-21"
+      },
+      {
+        "team_1": "Real Madrid",
+        "team_2": "Paris Saint-Germain",
+        "date": "2018-02-14"
+      },
+      {
+        "team_1": "Shakhtar Donetsk",
+        "team_2": "Roma",
+        "date": "2018-02-21"
+      },
+      {
+        "team_1": "Chelsea",
+        "team_2": "Barcelona",
+        "date": "2018-02-20"
+      },
+      {
+        "team_1": "Bayern Munich",
+        "team_2": "Besiktas",
+        "date": "2018-02-20"
+      }
+    ],
+    "quarter_finals_matchups": [
+      {
+        "team_1": "Winner of Juventus vs Tottenham Hotspur",
+        "team_2": "Winner of Real Madrid vs Paris Saint-Germain",
+        "date": "2018-04-03"
+      },
+      {
+        "team_1": "Winner of Porto vs Liverpool",
+        "team_2": "Winner of Basel vs Manchester City",
+        "date": "2018-04-04"
+      },
+      {
+        "team_1": "Winner of Sevilla vs Manchester United",
+        "team_2": "Winner of Bayern Munich vs Besiktas",
+        "date": "2018-04-03"
+      },
+      {
+        "team_1": "Winner of Shakhtar Donetsk vs Roma",
+        "team_2": "Winner of Chelsea vs Barcelona",
+        "date": "2018-04-04"
+      }
+    ],
+    "semi_finals_matchups": [
+      {
+        "team_1": "Winner of QF2",
+        "team_2": "Winner of QF4",
+        "date": "2018-04-24"
+      },
+      {
+        "team_1": "Winner of QF1",
+        "team_2": "Winner of QF3",
+        "date": "2018-04-25"
+      }
+    ],
+    "final_matchup": {
+      "team_1": "Winner of SF1",
+      "team_2": "Winner of SF2",
+      "date": "2018-05-26"
+    }
+  },
+  "2018-19": {
+    "round_of_16_matchups": [
+      {
+        "team_1": "Roma",
+        "team_2": "Porto",
+        "date": "2019-02-12"
+      },
+      {
+        "team_1": "Manchester United",
+        "team_2": "Paris Saint-Germain",
+        "date": "2019-02-12"
+      },
+      {
+        "team_1": "Tottenham Hotspur",
+        "team_2": "Borussia Dortmund",
+        "date": "2019-02-13"
+      },
+      {
+        "team_1": "Ajax",
+        "team_2": "Real Madrid",
+        "date": "2019-02-13"
+      },
+      {
+        "team_1": "Lyon",
+        "team_2": "Barcelona",
+        "date": "2019-02-19"
+      },
+      {
+        "team_1": "Liverpool",
+        "team_2": "Bayern Munich",
+        "date": "2019-02-19"
+      },
+      {
+        "team_1": "Atletico Madrid",
+        "team_2": "Juventus",
+        "date": "2019-02-20"
+      },
+      {
+        "team_1": "Schalke 04",
+        "team_2": "Manchester City",
+        "date": "2019-02-20"
+      }
+    ],
+    "quarter_finals_matchups": [
+      {
+        "team_1": "Winner of Roma vs Porto",
+        "team_2": "Winner of Ajax vs Real Madrid",
+        "date": "2019-04-09"
+      },
+      {
+        "team_1": "Winner of Tottenham Hotspur vs Borussia Dortmund",
+        "team_2": "Winner of Schalke 04 vs Manchester City",
+        "date": "2019-04-09"
+      },
+      {
+        "team_1": "Winner of Lyon vs Barcelona",
+        "team_2": "Winner of Manchester United vs Paris Saint-Germain",
+        "date": "2019-04-10"
+      },
+      {
+        "team_1": "Winner of Liverpool vs Bayern Munich",
+        "team_2": "Winner of Atletico Madrid vs Juventus",
+        "date": "2019-04-10"
+      }
+    ],
+    "semi_finals_matchups": [
+      {
+        "team_1": "Winner of QF2",
+        "team_2": "Winner of QF1",
+        "date": "2019-04-30"
+      },
+      {
+        "team_1": "Winner of QF4",
+        "team_2": "Winner of QF3",
+        "date": "2019-05-01"
+      }
+    ],
+    "final_matchup": {
+      "team_1": "Winner of SF1",
+      "team_2": "Winner of SF2",
+      "date": "2019-06-01"
+    }
+  },
+  "2019-20": {
+    "round_of_16_matchups": [
+      {
+        "team_1": "Borussia Dortmund",
+        "team_2": "Paris Saint-Germain",
+        "date": "2020-02-18"
+      },
+      {
+        "team_1": "Real Madrid",
+        "team_2": "Manchester City",
+        "date": "2020-02-26"
+      },
+      {
+        "team_1": "Atalanta",
+        "team_2": "Valencia",
+        "date": "2020-02-19"
+      },
+      {
+        "team_1": "Atletico Madrid",
+        "team_2": "Liverpool",
+        "date": "2020-02-18"
+      },
+      {
+        "team_1": "Chelsea",
+        "team_2": "Bayern Munich",
+        "date": "2020-02-25"
+      },
+      {
+        "team_1": "Lyon",
+        "team_2": "Juventus",
+        "date": "2020-02-26"
+      },
+      {
+        "team_1": "Tottenham Hotspur",
+        "team_2": "RB Leipzig",
+        "date": "2020-02-19"
+      },
+      {
+        "team_1": "Napoli",
+        "team_2": "Barcelona",
+        "date": "2020-02-25"
+      }
+    ],
+    "quarter_finals_matchups": [
+      {
+        "team_1": "Winner of Atalanta vs Valencia",
+        "team_2": "Winner of Borussia Dortmund vs Paris Saint-Germain",
+        "date": "2020-08-12"
+      },
+      {
+        "team_1": "Winner of Atletico Madrid vs Liverpool",
+        "team_2": "Winner of Tottenham Hotspur vs RB Leipzig",
+        "date": "2020-08-13"
+      },
+      {
+        "team_1": "Winner of Real Madrid vs Manchester City",
+        "team_2": "Winner of Lyon vs Juventus",
+        "date": "2020-08-14"
+      },
+      {
+        "team_1": "Winner of Napoli vs Barcelona",
+        "team_2": "Winner of Chelsea vs Bayern Munich",
+        "date": "2020-08-15"
+      }
+    ],
+    "semi_finals_matchups": [
+      {
+        "team_1": "Winner of QF1",
+        "team_2": "Winner of QF2",
+        "date": "2020-08-18"
+      },
+      {
+        "team_1": "Winner of QF3",
+        "team_2": "Winner of QF4",
+        "date": "2020-08-19"
+      }
+    ],
+    "final_matchup": {
+      "team_1": "Winner of SF1",
+      "team_2": "Winner of SF2",
+      "date": "2020-08-23"
+    }
+  },
+  "2020-21": {
+    "round_of_16_matchups": [
+      {
+        "team_1": "RB Leipzig",
+        "team_2": "Liverpool",
+        "date": "2021-02-16"
+      },
+      {
+        "team_1": "Barcelona",
+        "team_2": "Paris Saint-Germain",
+        "date": "2021-02-16"
+      },
+      {
+        "team_1": "Porto",
+        "team_2": "Juventus",
+        "date": "2021-02-17"
+      },
+      {
+        "team_1": "Sevilla",
+        "team_2": "Borussia Dortmund",
+        "date": "2021-02-17"
+      },
+      {
+        "team_1": "Lazio",
+        "team_2": "Bayern Munich",
+        "date": "2021-02-23"
+      },
+      {
+        "team_1": "Atletico Madrid",
+        "team_2": "Chelsea",
+        "date": "2021-02-23"
+      },
+      {
+        "team_1": "Atalanta",
+        "team_2": "Real Madrid",
+        "date": "2021-02-24"
+      },
+      {
+        "team_1": "Borussia Monchengladbach",
+        "team_2": "Manchester City",
+        "date": "2021-02-24"
+      }
+    ],
+    "quarter_finals_matchups": [
+      {
+        "team_1": "Winner of Porto vs Juventus",
+        "team_2": "Winner of Atletico Madrid vs Chelsea",
+        "date": "2021-04-07"
+      },
+      {
+        "team_1": "Winner of Lazio vs Bayern Munich",
+        "team_2": "Winner of Barcelona vs Paris Saint-Germain",
+        "date": "2021-04-07"
+      },
+      {
+        "team_1": "Winner of RB Leipzig vs Liverpool",
+        "team_2": "Winner of Atalanta vs Real Madrid",
+        "date": "2021-04-06"
+      },
+      {
+        "team_1": "Winner of Sevilla vs Borussia Dortmund",
+        "team_2": "Winner of Borussia Monchengladbach vs Manchester City",
+        "date": "2021-04-06"
+      }
+    ],
+    "semi_finals_matchups": [
+      {
+        "team_1": "Winner of QF1",
+        "team_2": "Winner of QF3",
+        "date": "2021-04-27"
+      },
+      {
+        "team_1": "Winner of QF2",
+        "team_2": "Winner of QF4",
+        "date": "2021-04-28"
+      }
+    ],
+    "final_matchup": {
+      "team_1": "Winner of SF1",
+      "team_2": "Winner of SF2",
+      "date": "2021-05-29"
+    }
+  },
+  "2021-22": {
+    "round_of_16_matchups": [
+      {
+        "team_1": "Paris Saint-Germain",
+        "team_2": "Real Madrid",
+        "date": "2022-02-15"
+      },
+      {
+        "team_1": "Sporting CP",
+        "team_2": "Manchester City",
+        "date": "2022-02-15"
+      },
+      {
+        "team_1": "Red Bull Salzburg",
+        "team_2": "Bayern Munich",
+        "date": "2022-02-16"
+      },
+      {
+        "team_1": "Inter Milan",
+        "team_2": "Liverpool",
+        "date": "2022-02-16"
+      },
+      {
+        "team_1": "Chelsea",
+        "team_2": "Lille",
+        "date": "2022-02-22"
+      },
+      {
+        "team_1": "Villarreal",
+        "team_2": "Juventus",
+        "date": "2022-02-22"
+      },
+      {
+        "team_1": "Atletico Madrid",
+        "team_2": "Manchester United",
+        "date": "2022-02-23"
+      },
+      {
+        "team_1": "Benfica",
+        "team_2": "Ajax",
+        "date": "2022-02-23"
+      }
+    ],
+    "quarter_finals_matchups": [
+      {
+        "team_1": "Winner of Chelsea vs Lille",
+        "team_2": "Winner of Paris Saint-Germain vs Real Madrid",
+        "date": "2022-04-05"
+      },
+      {
+        "team_1": "Winner of Atletico Madrid vs Manchester United",
+        "team_2": "Winner of Sporting CP vs Manchester City",
+        "date": "2022-04-05"
+      },
+      {
+        "team_1": "Winner of Villarreal vs Juventus",
+        "team_2": "Winner of Red Bull Salzburg vs Bayern Munich",
+        "date": "2022-04-06"
+      },
+      {
+        "team_1": "Winner of Benfica vs Ajax",
+        "team_2": "Winner of Inter Milan vs Liverpool",
+        "date": "2022-04-06"
+      }
+    ],
+    "semi_finals_matchups": [
+      {
+        "team_1": "Winner of QF3",
+        "team_2": "Winner of QF4",
+        "date": "2022-04-26"
+      },
+      {
+        "team_1": "Winner of QF1",
+        "team_2": "Winner of QF2",
+        "date": "2022-04-27"
+      }
+    ],
+    "final_matchup": {
+      "team_1": "Winner of SF1",
+      "team_2": "Winner of SF2",
+      "date": "2022-05-28"
+    }
+  },
+  "2022-23": {
+    "round_of_16_matchups": [
+      {
+        "team_1": "RB Leipzig",
+        "team_2": "Manchester City",
+        "date": "2023-02-22"
+      },
+      {
+        "team_1": "Club Brugge",
+        "team_2": "Benfica",
+        "date": "2023-02-14"
+      },
+      {
+        "team_1": "Liverpool",
+        "team_2": "Real Madrid",
+        "date": "2023-02-21"
+      },
+      {
+        "team_1": "AC Milan",
+        "team_2": "Tottenham Hotspur",
+        "date": "2023-02-14"
+      },
+      {
+        "team_1": "Eintracht Frankfurt",
+        "team_2": "Napoli",
+        "date": "2023-02-21"
+      },
+      {
+        "team_1": "Borussia Dortmund",
+        "team_2": "Chelsea",
+        "date": "2023-02-15"
+      },
+      {
+        "team_1": "Inter Milan",
+        "team_2": "Porto",
+        "date": "2023-02-14"
+      },
+      {
+        "team_1": "Paris Saint-Germain",
+        "team_2": "Bayern Munich",
+        "date": "2023-02-14"
+      }
+    ],
+    "quarter_finals_matchups": [
+      {
+        "team_1": "Winner of Club Brugge vs Benfica",
+        "team_2": "Winner of Inter Milan vs Porto",
+        "date": "2023-04-11"
+      },
+      {
+        "team_1": "Winner of AC Milan vs Tottenham Hotspur",
+        "team_2": "Winner of Eintracht Frankfurt vs Napoli",
+        "date": "2023-04-12"
+      },
+      {
+        "team_1": "Winner of Paris Saint-Germain vs Bayern Munich",
+        "team_2": "Winner of RB Leipzig vs Manchester City",
+        "date": "2023-04-11"
+      },
+      {
+        "team_1": "Winner of Borussia Dortmund vs Chelsea",
+        "team_2": "Winner of Liverpool vs Real Madrid",
+        "date": "2023-04-12"
+      }
+    ],
+    "semi_finals_matchups": [
+      {
+        "team_1": "Winner of QF2",
+        "team_2": "Winner of QF1",
+        "date": "2023-05-09"
+      },
+      {
+        "team_1": "Winner of QF4",
+        "team_2": "Winner of QF3",
+        "date": "2023-05-10"
+      }
+    ],
+    "final_matchup": {
+      "team_1": "Winner of SF1",
+      "team_2": "Winner of SF2",
+      "date": "2023-06-10"
+    }
+  },
+  "2023-24": {
+    "round_of_16_matchups": [
+      {
+        "team_1": "Copenhagen",
+        "team_2": "Manchester City",
+        "date": "2024-02-13"
+      },
+      {
+        "team_1": "RB Leipzig",
+        "team_2": "Real Madrid",
+        "date": "2024-02-13"
+      },
+      {
+        "team_1": "Lazio",
+        "team_2": "Bayern Munich",
+        "date": "2024-02-14"
+      },
+      {
+        "team_1": "Paris Saint-Germain",
+        "team_2": "Real Sociedad",
+        "date": "2024-02-14"
+      },
+      {
+        "team_1": "Inter Milan",
+        "team_2": "Atletico Madrid",
+        "date": "2024-02-20"
+      },
+      {
+        "team_1": "PSV Eindhoven",
+        "team_2": "Borussia Dortmund",
+        "date": "2024-02-20"
+      },
+      {
+        "team_1": "Porto",
+        "team_2": "Arsenal",
+        "date": "2024-02-21"
+      },
+      {
+        "team_1": "Napoli",
+        "team_2": "Barcelona",
+        "date": "2024-02-21"
+      }
+    ],
+    "quarter_finals_matchups": [
+      {
+        "team_1": "Winner of Porto vs Arsenal",
+        "team_2": "Winner of PSV Eindhoven vs Borussia Dortmund",
+        "date": "2024-04-09"
+      },
+      {
+        "team_1": "Winner of Inter Milan vs Atletico Madrid",
+        "team_2": "Winner of Copenhagen vs Manchester City",
+        "date": "2024-04-09"
+      },
+      {
+        "team_1": "Winner of Paris Saint-Germain vs Real Sociedad",
+        "team_2": "Winner of Napoli vs Barcelona",
+        "date": "2024-04-10"
+      },
+      {
+        "team_1": "Winner of Lazio vs Bayern Munich",
+        "team_2": "Winner of RB Leipzig vs Real Madrid",
+        "date": "2024-04-10"
+      }
+    ],
+    "semi_finals_matchups": [
+      {
+        "team_1": "Winner of QF1",
+        "team_2": "Winner of QF3",
+        "date": "2024-04-30"
+      },
+      {
+        "team_1": "Winner of QF2",
+        "team_2": "Winner of QF4",
+        "date": "2024-05-01"
+      }
+    ],
+    "final_matchup": {
+      "team_1": "Winner of SF1",
+      "team_2": "Winner of SF2",
+      "date": "2024-06-01"
+    }
+  }
+}
